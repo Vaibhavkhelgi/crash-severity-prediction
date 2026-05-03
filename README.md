@@ -7,7 +7,7 @@ This project focuses on predicting **crash severity (single-fatal vs multi-fatal
 The project primarily addresses the challenge of **class imbalance**, where multi-fatal crashes are rare but critical to detect.  
 <br>
 The project involves:
-<li><b>Binary Classification</b>: Develop a classification model to predict whether a crash results in '0'(single fatal) or '1'(multiple fatal).</li>
+<li><b>Binary Classification</b>: Develop a classification model to predict whether a crash results in '0'(Single fatal) or '1'(Multi fatal).</li>
 
 ---
 
